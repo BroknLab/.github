@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're Brokn Lab 🧪 _Everything we touch, we break it._
+Hello. We're Brokn Lab 🧪 _The game is always broke_.
 
 A development team. 
 
